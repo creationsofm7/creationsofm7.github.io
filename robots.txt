@@ -1,0 +1,7 @@
+# robots.txt for creationsofm7.github.io
+# Authoritative robots file at the host root (covers all project sites).
+User-agent: *
+Allow: /
+
+# Project sitemaps
+Sitemap: https://creationsofm7.github.io/localtv-remote/sitemap.xml
